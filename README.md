@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @amithkaldhone
-- 👀 I’m interested in Geospatial Technology
-- 🌱 I’m currently learning basic development Geospatial.
+- 👋 Hi, I’m Amit Kaldhone, I have completed my Masters of Technology on Geographic Informaiton System (GIS).
+- 👀 I’m interested in GIS Development.
 - 📫 you can email me at - amithkaldhone@gmail.com
 
 <!---
