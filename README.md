@@ -8,11 +8,11 @@ I have 8+ year's of experience in GIS domain.
 https://www.linkedin.com/in/amitkaldhone/
 
 ### Education
-M.Tech in Geographic Information System (2013)
+**M.Tech** in Geographic Information System (2013)
 
-M.A. in Geography (2011)
+**M.A.** in Geography (2011)
 
-B.A. in Geography (2009)
+**B.A.** in Geography (2009)
 
 ### Contact
 📫email - amithkaldhone@gmail.com
