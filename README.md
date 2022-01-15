@@ -1,5 +1,6 @@
 ## Amit Kaldhone
-Hi👋,
+Hi👋
+
 I am an GIS professional, Currently working with Cognizant Teachnology Solutions.
 
 I have 8+ year's of experience in GIS domain.
@@ -15,7 +16,7 @@ M.A. in Geography (2011)
 B.A. in Geography (2009)
 
 ### Contact
-📫email - amithkaldhone@gmail.com
+📫Email - amithkaldhone@gmail.com
 
 <!---
 amithkaldhone/amithkaldhone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
