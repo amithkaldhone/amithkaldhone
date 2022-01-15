@@ -1,7 +1,7 @@
 ## Amit Kaldhone
 Hi👋
 
-I am an GIS professional, Currently working with Cognizant Teachnology Solutions.
+I am an GIS professional, Currently working with Cognizant Technology Solutions.
 
 I have 8+ year's of experience in GIS domain.
 
